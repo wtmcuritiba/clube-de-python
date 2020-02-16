@@ -22,21 +22,21 @@ Se você está começando a programar, alguns cursos de lógica de programação
 
 * [Introdução à lógica - En Inglês - com legendas pt-br](https://www.coursera.org/learn/logic-introduction)
 
-# Bora Começar?
+## Bora Começar?
 
-## Instalando Python
+### Instalando Python
 
-### Windows
+#### Windows
 
 * Baixar o instalador [site oficial](https://www.python.org/downloads/)
 
 * [Passo a Passo da instalação](https://python.org.br/instalacao-windows/)
 
-### MAC
+#### MAC
 
 * [Passo a Passo da instalação](https://python.org.br/instalacao-mac/)
 
-### IDE
+#### IDE
 
 Existem várias disponíveis e você deve escolher a que você se adaptar melhor, nesse link [aqui](https://paulovasconcellos.com.br/quais-s%C3%A3o-as-melhores-ide-para-python-confira-a-lista-279b54bef301) você tem as principais disponíveis hoje.
 
