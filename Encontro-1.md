@@ -63,7 +63,7 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 
 * [Live de Python (Eduardo Mendes) - lives semanais desenvolvendo ao vivo](https://www.youtube.com/user/mendesesduardo)
 
-* [Pyjamas - evento de Python online, pra assistir de pijamas] (https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA)
+* [Pyjamas - evento de Python online, pra assistir de pijamas](https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA)
 
 * [Brazil Pyladies - palestras das Ladies](https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
 
