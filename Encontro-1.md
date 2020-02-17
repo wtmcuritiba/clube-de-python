@@ -22,21 +22,21 @@ Se você está começando a programar, alguns cursos de lógica de programação
 
 * [Introdução à lógica - En Inglês - com legendas pt-br](https://www.coursera.org/learn/logic-introduction)
 
-# Bora Começar?
+## Bora Começar?
 
-## Instalando Python
+### Instalando Python
 
-### Windows
+#### Windows
 
 * Baixar o instalador [site oficial](https://www.python.org/downloads/)
 
 * [Passo a Passo da instalação](https://python.org.br/instalacao-windows/)
 
-### MAC
+#### MAC
 
 * [Passo a Passo da instalação](https://python.org.br/instalacao-mac/)
 
-### IDE
+#### IDE
 
 Existem várias disponíveis e você deve escolher a que você se adaptar melhor, nesse link [aqui](https://paulovasconcellos.com.br/quais-s%C3%A3o-as-melhores-ide-para-python-confira-a-lista-279b54bef301) você tem as principais disponíveis hoje.
 
@@ -56,12 +56,27 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 * [Começando com Python](https://gabrielschade.github.io/2018/01/31/basics-python.html)
 * [Apostila Caelum - Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-objetos/)
 
+
+### Canais 
+
+* [Python brasil - caso você não possa ir no evento, eles postam as palestras neste canal.](https://www.youtube.com/channel/UCiCQrFh8ckR_LXQyOAsOZiw)
+
+* [Live de Python (Eduardo Mendes) - lives semanais desenvolvendo ao vivo](https://www.youtube.com/user/mendesesduardo)
+
+* [Pyjamas - evento de Python online, pra assistir de pijamas] (https://www.youtube.com/channel/UCWCFzEJd7PhVulMXwGjcYAA)
+
+* [Brazil Pyladies - palestras das Ladies](https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
+
+* [Curso de Python (Gustavo Guababara)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+
 ### Livros
 
 * Python Fluente: Programação Clara, Concisa e Eficaz
 * Automatize tarefas maçantes com Python
 * Introdução à Programação Com Python: Algoritmos e Lógica de Programação Para Iniciantes
 
+
+##### Fontes:
 
 https://eusoudev.com.br/python-como-surgiu/
 
