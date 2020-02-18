@@ -50,6 +50,9 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 * [FLASK](https://github.com/pallets/flask)
 * [FAST API](https://fastapi.tiangolo.com/)
 
+### Bibliotecas 
+
+* [Pandas](https://pandas.pydata.org/) para manipulação e análise de dados;
 
 ## Iniciando os estudos com Python
 
@@ -77,7 +80,7 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 
 * [Brazil Pyladies - palestras das Ladies](https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
 
-* [Curso de Python (Gustavo Guababara)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+* [Curso de Python (Gustavo Guanabara)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 ### Livros
 
