@@ -12,6 +12,8 @@ Sinta-se a vontade pra contribuir :green_heart:
 
 2º Encontro - Vamos fazer alguns exercicios? (ainda em construção)
 
+
+
 ## Sobre o Clube de Python:  
   
 ## Objetivo  
