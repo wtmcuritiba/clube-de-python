@@ -36,10 +36,23 @@ Se você está começando a programar, alguns cursos de lógica de programação
 
 * [Passo a Passo da instalação](https://python.org.br/instalacao-mac/)
 
+#### Para Linux ou MAC - Controle de versão do python
+
+* [PYENV](https://github.com/pyenv/pyenv/)
+
 #### IDE
 
 Existem várias disponíveis e você deve escolher a que você se adaptar melhor, nesse link [aqui](https://paulovasconcellos.com.br/quais-s%C3%A3o-as-melhores-ide-para-python-confira-a-lista-279b54bef301) você tem as principais disponíveis hoje.
 
+#### Principais frameworks
+
+* [DJANGO](https://www.djangoproject.com/)
+* [FLASK](https://github.com/pallets/flask)
+* [FAST API](https://fastapi.tiangolo.com/)
+
+### Bibliotecas 
+
+* [Pandas](https://pandas.pydata.org/) para manipulação e análise de dados;
 
 ## Iniciando os estudos com Python
 
@@ -67,7 +80,7 @@ Existem várias disponíveis e você deve escolher a que você se adaptar melhor
 
 * [Brazil Pyladies - palestras das Ladies](https://www.youtube.com/channel/UCzFDzkgQ3mWNvcHoTVcT2bg)
 
-* [Curso de Python (Gustavo Guababara)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+* [Curso de Python (Gustavo Guanabara)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
 ### Livros
 
