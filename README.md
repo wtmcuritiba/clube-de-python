@@ -27,4 +27,4 @@ Nos moldes de um clube do livro, a cada encontro vamos estudar um tópico propos
 Mulheres e minorias de gênero, que tenham o interesse em linguagem Python. 👩‍💻👩🏻‍💻👩🏼‍💻👩🏽‍💻👩🏾‍💻👩🏿‍💻  
 Não é necessário ter conhecimento prévio na linguagem. Incentivamos as mais experientes a ajudar as iniciantes pois ensinando aprendemos mais. 👊🤝
 
-.
+
