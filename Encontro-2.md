@@ -8,12 +8,14 @@ Você pode acessar a lista de exercícios aqui:
 
 :notebook: [Estruturas e Laços de repetição](https://colab.research.google.com/drive/1Q1rTBFleHwJ7loWPAGauWa6NBQrAkb2t?usp=sharing)
 
+## Importante
+
 :warning: Nos dois arquivos tem materiais de consulta para ajudar com a resolução dos exercicíos. 
 
 :exclamation: Para usar o Google Codelab não é necessário nenhuma instalação prévia, basta ter uma conta no Google. 
 
 Você pode fazer uma cópia do arquivo pro seu Google Drive também é só clicar em arquivo :file_folder: e depois clicar em **salvar uma cópia no Drive.**
- > > 
+
 
 
 
